@@ -10,6 +10,7 @@ public class Person1 {
 		Person1 p=new Person1();
 		System.out.println(p.name);
 		System.out.println(p.age);
+		System.out.println("hello java");
 
 	}
 
